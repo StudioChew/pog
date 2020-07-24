@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.pog.studiochew"
+    versionCode = "14"
+    version     = "1.4.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pog!</name>
+
+  <description>
+      Pog! A game about popping balls that fly around the screen, but now on mobile!
+  </description>
+
+  <author href="https://studiochew.github.io/" email="isaiahburks5@gmail.com">
+      Studio Chew, Donsins-Productions
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
