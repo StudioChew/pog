@@ -1,3 +1,5 @@
+# WARNING
+ Pog! development has been discontinued on this account. Please use https://github.com/pog-tas/pog/ for future development and releases.
 # Pog!
  Pog!(tas) is a multi-platform game originating from scratch. Pick your difficulty level, then get into the game, which consists of: Hitting targets, avoiding bombs, collecting powerups, and getting a highscore.
 # How do I play?
